@@ -57,7 +57,7 @@ tot:
 buildnum:
   image:
     repository: jenkinsxio/jx
-    jxTag: 1.3.585
+    jxTag: 1.2.3
   imagePullPolicy: IfNotPresent
   terminationGracePeriodSeconds: 180
   command:
